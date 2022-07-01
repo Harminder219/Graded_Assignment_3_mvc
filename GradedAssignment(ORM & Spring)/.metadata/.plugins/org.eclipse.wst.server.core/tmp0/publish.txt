@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jul 02 02:13:35 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\sharm\\eclipse-workspace\\GradedAssignment(ORM\ &\ Spring)\\Customer\ Relationship\ Management\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\sharm\\eclipse-workspace\\GradedAssignment(ORM\ &\ Spring)\\Customer\ Relationship\ Management\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
